@@ -1,0 +1,6 @@
+Job title stuff 
+https://serpapi.com/linkedin-search
+https://serpapi.com/search.json?engine=linkedin&first_name=Jimmy&last_name=Neutron
+
+Python 
+
